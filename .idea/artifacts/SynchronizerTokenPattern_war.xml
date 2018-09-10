@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SynchronizerTokenPattern:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="SynchronizerTokenPattern.war">
+      <element id="artifact" artifact-name="SynchronizerTokenPattern:war exploded" />
+    </root>
+  </artifact>
+</component>
